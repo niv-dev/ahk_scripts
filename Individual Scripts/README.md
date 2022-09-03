@@ -7,4 +7,5 @@
 | Hide Taskbar | `Windows` + `./,` hides and unhides taskbar |
 | Media Playback | Simulates `Media_Pause`, `Media_Next`, `Media_Previous` using `Alt` + `I/O/P`.|
 | Word Count Script: | Counts the words in the current selection. Trigger: `Control` + `Alt` + `Windows` + `W`. |
-| SumatraPDF Keybindings | Adds Custom Keybindings to SPDF for faster navigation. 
+| SumatraPDF Keybindings | Adds Custom Keybindings to SPDF for faster navigation. |
+| Wolfram!Alpha Completion | Queries the text selected using the Wolfram!Alpha API. To use the script replace the `INSERTAPPID` section with your `APPID`. 
